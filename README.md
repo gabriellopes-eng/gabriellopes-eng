@@ -10,31 +10,24 @@
 
 ## 📊 My GitHub Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Elwardz&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Elwardz&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Elwardz&show_icons=true" alt="GitHub Stats" />
-</picture>
+<div>
+  <a href="https://github.com/Elwardz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elwardz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elwardz&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="El-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="El-Chrome" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg">
+  <img align="center" alt="El-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="El-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="El-LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
+  <img align="center" alt="El-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="El-Plotly" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg">
+</div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Elwardz&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Elwardz&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elwardz&layout=compact" alt="Most Used Languages" />
-</picture>
-
+#
 
 ## 🛠️ Techs & Tools
 
@@ -77,3 +70,8 @@
 <a href="#"><img src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"></a>
+
+
+<img src="https://github.com/Elwardz/Elwardz/blob/output/github-contribution-grid-snake.svg" />
+
+
