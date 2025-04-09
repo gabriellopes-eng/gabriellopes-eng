@@ -72,6 +72,6 @@
 <a href="#"><img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"></a>
 
 
-<img src="https://github.com/Elwardz/Elwardz/blob/output/github-contribution-grid-snake.svg" />
+![Snake animation](https://github.com/Elwardz/Elwardz/raw/output/github-contribution-grid-snake.svg)
 
 
