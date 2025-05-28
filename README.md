@@ -6,7 +6,7 @@
 
 ### Want to talk?  
 <a href="mailto:gabriel.lopes@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/gabriel-lopes"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/gabriel-lopes-de-albuquerque-658a8317b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## 📊 My GitHub Stats
 
