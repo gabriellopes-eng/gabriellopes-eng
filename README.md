@@ -11,9 +11,9 @@
 ## 📊 My GitHub Stats
 
 <div>
-  <a href="https://github.com/Elwardz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elwardz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elwardz&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/gabriellopes-eng">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellopes-eng&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellopes-eng&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
 
