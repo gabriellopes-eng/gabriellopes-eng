@@ -1,7 +1,7 @@
 # Hi! What's up? 👋 
 
 - 👨‍💻 I'm a Software Engineering student passionate about technology, coding, and problem-solving.
-- 🚀 Currently exploring Data Areas and Data-Driven Solutions at Universidade de Pernambuco (UPE).
+- 🚀 Currently exploring Data and IA Areas and Data-Driven Solutions at Universidade de Pernambuco (UPE).
 - 📚 Focused on improving my skills in Python, MySQL, and data manipulation with Pandas and NumPy.
 
 ### Want to talk?  
