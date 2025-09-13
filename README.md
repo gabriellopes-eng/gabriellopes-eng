@@ -55,6 +55,7 @@
 <a href="#"><img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Math-6C3483?style=for-the-badge&logo=python&logoColor=white" alt="Math Library"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"></a>
