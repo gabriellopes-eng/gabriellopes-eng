@@ -1,4 +1,4 @@
-# ◈ Hi! I'm Gabriel Lopes de Albuquerque? 
+# ◈ Hi! I'm Gabriel Lopes de Albuquerque
 
 - 👨‍💻 I'm a Software Engineering student passionate about technology, coding, and problem-solving.
 - 🚀 Currently exploring Data and IA Areas and Data-Driven Solutions at Universidade de Pernambuco (UPE).
