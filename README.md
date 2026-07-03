@@ -21,10 +21,10 @@ class Gabriel:
         return "Always learning. Always building."
 ```
 
-- 🎓 Software Engineering — Universidade de Pernambuco (UPE)
+- 🎓 Software Engineering - Universidade de Pernambuco (UPE)
 - 🤖 Artificial Intelligence & Machine Learning
 - 📊 Data Analytics & Data-Driven Solutions
-- 🧠 Research — Intelligent Systems & Graph Analysis
+- 🧠 Research - Intelligent Systems & Graph Analysis
 - 📚 Author & co-author of scientific publications in Computing
 
 ## `//` What I Do
