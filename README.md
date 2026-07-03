@@ -41,6 +41,8 @@ I work at the intersection of software engineering and data science: designing a
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellopes-eng&theme=dracula&hide_border=true" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriellopes-eng&theme=dracula&hide_border=true&area=true" width="100%" />
+
 
 ## `//` Tech Stack
 
