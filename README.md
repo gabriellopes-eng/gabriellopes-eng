@@ -33,11 +33,11 @@ I work at the intersection of software engineering and data science: designing a
 
 
 ## `//` GitHub Stats
-
 <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriellopes-eng&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula" align="left" />
 <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriellopes-eng&layout=compact&langs_count=8&hide_border=true&theme=dracula" align="left" />
 
 <br clear="left"/>
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellopes-eng&theme=dracula&hide_border=true" />
 
