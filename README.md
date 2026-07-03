@@ -1,7 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=BD93F9&background=282A3600&center=false&vCenter=true&width=650&lines=Software+Engineering+Student;Data+%26+AI+Enthusiast;Analytics+Engineer;Machine+Learning+Researcher" alt="Typing SVG" />
 
-# I'm Gabriel Lopes de Albuquerque ☕
-
+# I'm Gabriel Lopes de Albuquerque <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGt5ejl1dWtocXBvdXJvNnk4eW5xa2tpZ3hwdGJ6bDRnODFrMnhoMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L2wEbAL75L24xiHWFa/giphy.gif" width="35">
 Software Engineering Student • Data & AI Enthusiast • Analytics Engineer • Researcher
 
 [![Gmail](https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=FF79C6)](mailto:gabriel.lopes@example.com)
