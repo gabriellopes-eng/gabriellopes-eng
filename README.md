@@ -1,108 +1,105 @@
-# ◈ Hi! I'm Gabriel Lopes de Albuquerque
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjAiIGhlaWdodD0iMTgyIiB2aWV3Qm94PSIwIDAgMTYwIDE4MiIgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE4MiIgZmlsbD0ibm9uZSIvPjxyZWN0IHg9IjQwIiB5PSIyMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iNTAiIHk9IjIyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIxMTAiIHk9IjIyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIxMjAiIHk9IjIyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIzMCIgeT0iMzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjQwIiB5PSIzMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNjI3MmE0Ii8+PHJlY3QgeD0iNTAiIHk9IjMyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM2MjcyYTQiLz48cmVjdCB4PSI2MCIgeT0iMzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjEwMCIgeT0iMzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjExMCIgeT0iMzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzYyNzJhNCIvPjxyZWN0IHg9IjEyMCIgeT0iMzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzYyNzJhNCIvPjxyZWN0IHg9IjEzMCIgeT0iMzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjIwIiB5PSI0MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iMzAiIHk9IjQyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM2MjcyYTQiLz48cmVjdCB4PSI0MCIgeT0iNDIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2ZmNzljNiIvPjxyZWN0IHg9IjUwIiB5PSI0MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iNjAiIHk9IjQyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSI5MCIgeT0iNDIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjEwMCIgeT0iNDIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzYyNzJhNCIvPjxyZWN0IHg9IjExMCIgeT0iNDIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjEyMCIgeT0iNDIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2ZmNzljNiIvPjxyZWN0IHg9IjEzMCIgeT0iNDIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjEwIiB5PSI1MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iMjAiIHk9IjUyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM2MjcyYTQiLz48cmVjdCB4PSIzMCIgeT0iNTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzYyNzJhNCIvPjxyZWN0IHg9IjQwIiB5PSI1MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iNTAiIHk9IjUyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI2MCIgeT0iNTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjcwIiB5PSI1MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iOTAiIHk9IjUyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIxMDAiIHk9IjUyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM2MjcyYTQiLz48cmVjdCB4PSIxMTAiIHk9IjUyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIxMjAiIHk9IjUyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIxMzAiIHk9IjUyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIxNDAiIHk9IjUyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIwIiB5PSI2MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iMTAiIHk9IjYyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM2MjcyYTQiLz48cmVjdCB4PSIyMCIgeT0iNjIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzYyNzJhNCIvPjxyZWN0IHg9IjMwIiB5PSI2MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iNDAiIHk9IjYyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI1MCIgeT0iNjIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjYwIiB5PSI2MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iNzAiIHk9IjYyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSI4MCIgeT0iNjIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjkwIiB5PSI2MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNjI3MmE0Ii8+PHJlY3QgeD0iMTAwIiB5PSI2MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNjI3MmE0Ii8+PHJlY3QgeD0iMTEwIiB5PSI2MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iMTIwIiB5PSI2MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iMTMwIiB5PSI2MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iMTQwIiB5PSI2MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iMTUwIiB5PSI2MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iMCIgeT0iNzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjEwIiB5PSI3MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNjI3MmE0Ii8+PHJlY3QgeD0iMjAiIHk9IjcyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIzMCIgeT0iNzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjQwIiB5PSI3MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iNTAiIHk9IjcyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSI2MCIgeT0iNzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjcwIiB5PSI3MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iODAiIHk9IjcyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSI5MCIgeT0iNzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjEwMCIgeT0iNzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzYyNzJhNCIvPjxyZWN0IHg9IjExMCIgeT0iNzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjEyMCIgeT0iNzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjEzMCIgeT0iNzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjE0MCIgeT0iNzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjE1MCIgeT0iNzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjAiIHk9IjgyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIxMCIgeT0iODIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzYyNzJhNCIvPjxyZWN0IHg9IjIwIiB5PSI4MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iMzAiIHk9IjgyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI0MCIgeT0iODIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjUwIiB5PSI4MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iNjAiIHk9IjgyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI3MCIgeT0iODIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjgwIiB5PSI4MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iOTAiIHk9IjgyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIxMDAiIHk9IjgyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIxMTAiIHk9IjgyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIxMjAiIHk9IjgyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIxMzAiIHk9IjgyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIxNDAiIHk9IjgyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIxNTAiIHk9IjgyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIwIiB5PSI5MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iMTAiIHk9IjkyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM2MjcyYTQiLz48cmVjdCB4PSIyMCIgeT0iOTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjMwIiB5PSI5MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iNDAiIHk9IjkyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI1MCIgeT0iOTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjYwIiB5PSI5MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iNzAiIHk9IjkyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI4MCIgeT0iOTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjkwIiB5PSI5MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iMTAwIiB5PSI5MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iMTEwIiB5PSI5MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iMTIwIiB5PSI5MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iMTMwIiB5PSI5MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iMTQwIiB5PSI5MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iMTUwIiB5PSI5MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iMCIgeT0iMTAyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIxMCIgeT0iMTAyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM2MjcyYTQiLz48cmVjdCB4PSIyMCIgeT0iMTAyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIzMCIgeT0iMTAyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiMyODJhMzYiLz48cmVjdCB4PSI0MCIgeT0iMTAyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiMyODJhMzYiLz48cmVjdCB4PSI1MCIgeT0iMTAyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI2MCIgeT0iMTAyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI3MCIgeT0iMTAyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI4MCIgeT0iMTAyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI5MCIgeT0iMTAyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIxMDAiIHk9IjEwMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iMTEwIiB5PSIxMDIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzI4MmEzNiIvPjxyZWN0IHg9IjEyMCIgeT0iMTAyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiMyODJhMzYiLz48cmVjdCB4PSIxMzAiIHk9IjEwMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iMTQwIiB5PSIxMDIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjE1MCIgeT0iMTAyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIwIiB5PSIxMTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjEwIiB5PSIxMTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzYyNzJhNCIvPjxyZWN0IHg9IjIwIiB5PSIxMTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjMwIiB5PSIxMTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjQwIiB5PSIxMTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjUwIiB5PSIxMTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjYwIiB5PSIxMTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjcwIiB5PSIxMTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjgwIiB5PSIxMTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjkwIiB5PSIxMTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjEwMCIgeT0iMTEyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIxMTAiIHk9IjExMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iMTIwIiB5PSIxMTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjEzMCIgeT0iMTEyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIxNDAiIHk9IjExMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iMTUwIiB5PSIxMTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjAiIHk9IjEyMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iMTAiIHk9IjEyMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNjI3MmE0Ii8+PHJlY3QgeD0iMjAiIHk9IjEyMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iMzAiIHk9IjEyMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iNDAiIHk9IjEyMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iNTAiIHk9IjEyMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iNjAiIHk9IjEyMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjMjgyYTM2Ii8+PHJlY3QgeD0iNzAiIHk9IjEyMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjMjgyYTM2Ii8+PHJlY3QgeD0iODAiIHk9IjEyMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjMjgyYTM2Ii8+PHJlY3QgeD0iOTAiIHk9IjEyMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjMjgyYTM2Ii8+PHJlY3QgeD0iMTAwIiB5PSIxMjIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjExMCIgeT0iMTIyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIxMjAiIHk9IjEyMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iMTMwIiB5PSIxMjIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjE0MCIgeT0iMTIyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIxNTAiIHk9IjEyMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iMCIgeT0iMTMyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIxMCIgeT0iMTMyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIyMCIgeT0iMTMyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM2MjcyYTQiLz48cmVjdCB4PSIzMCIgeT0iMTMyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI0MCIgeT0iMTMyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI1MCIgeT0iMTMyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI2MCIgeT0iMTMyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI3MCIgeT0iMTMyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiMyODJhMzYiLz48cmVjdCB4PSI4MCIgeT0iMTMyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiMyODJhMzYiLz48cmVjdCB4PSI5MCIgeT0iMTMyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIxMDAiIHk9IjEzMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iMTEwIiB5PSIxMzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjEyMCIgeT0iMTMyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIxMzAiIHk9IjEzMiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNjI3MmE0Ii8+PHJlY3QgeD0iMTQwIiB5PSIxMzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjE1MCIgeT0iMTMyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIxMCIgeT0iMTQyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIyMCIgeT0iMTQyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIzMCIgeT0iMTQyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM2MjcyYTQiLz48cmVjdCB4PSI0MCIgeT0iMTQyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI1MCIgeT0iMTQyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI2MCIgeT0iMTQyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI3MCIgeT0iMTQyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI4MCIgeT0iMTQyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSI5MCIgeT0iMTQyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIxMDAiIHk9IjE0MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjYmQ5M2Y5Ii8+PHJlY3QgeD0iMTEwIiB5PSIxNDIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjEyMCIgeT0iMTQyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM2MjcyYTQiLz48cmVjdCB4PSIxMzAiIHk9IjE0MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iMTQwIiB5PSIxNDIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjIwIiB5PSIxNTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjMwIiB5PSIxNTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjQwIiB5PSIxNTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzYyNzJhNCIvPjxyZWN0IHg9IjUwIiB5PSIxNTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjYwIiB5PSIxNTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjcwIiB5PSIxNTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjgwIiB5PSIxNTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjkwIiB5PSIxNTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2JkOTNmOSIvPjxyZWN0IHg9IjEwMCIgeT0iMTUyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNiZDkzZjkiLz48cmVjdCB4PSIxMTAiIHk9IjE1MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNjI3MmE0Ii8+PHJlY3QgeD0iMTIwIiB5PSIxNTIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjEzMCIgeT0iMTUyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSIzMCIgeT0iMTYyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSI0MCIgeT0iMTYyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM0NDQ3NWEiLz48cmVjdCB4PSI1MCIgeT0iMTYyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM2MjcyYTQiLz48cmVjdCB4PSI2MCIgeT0iMTYyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM2MjcyYTQiLz48cmVjdCB4PSI3MCIgeT0iMTYyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM2MjcyYTQiLz48cmVjdCB4PSI4MCIgeT0iMTYyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM2MjcyYTQiLz48cmVjdCB4PSI5MCIgeT0iMTYyIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiM2MjcyYTQiLz48cmVjdCB4PSIxMDAiIHk9IjE2MiIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNDQ0NzVhIi8+PHJlY3QgeD0iMTEwIiB5PSIxNjIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjUwIiB5PSIxNzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjYwIiB5PSIxNzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjcwIiB5PSIxNzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjgwIiB5PSIxNzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjkwIiB5PSIxNzIiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDc1YSIvPjxyZWN0IHg9IjExMCIgeT0iMCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjYiIGZpbGw9IiM4YmU5ZmQiLz48cmVjdCB4PSIxMTAiIHk9IjAiIHdpZHRoPSI2IiBoZWlnaHQ9IjYiIGZpbGw9IiM4YmU5ZmQiLz48cmVjdCB4PSI4NiIgeT0iMCIgd2lkdGg9IjYiIGhlaWdodD0iNiIgZmlsbD0iIzhiZTlmZCIvPjxyZWN0IHg9IjEzNCIgeT0iMCIgd2lkdGg9IjYiIGhlaWdodD0iNiIgZmlsbD0iIzhiZTlmZCIvPjxyZWN0IHg9IjgwIiB5PSIwIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiBmaWxsPSIjOGJlOWZkIi8+PC9zdmc+" width="90" align="right" />
 
-- 👨‍💻 I'm a Software Engineering student passionate about technology, coding, and problem-solving.
-- 🚀 Currently exploring Data and IA Areas and Data-Driven Solutions at Universidade de Pernambuco (UPE).
-- 📚 Focused on improving my skills in Python, MySQL, and data manipulation with Pandas and NumPy.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=BD93F9&background=282A3600&center=false&vCenter=true&width=650&lines=Software+Engineering+Student;Data+%26+AI+Enthusiast;Analytics+Engineer;Machine+Learning+Researcher" alt="Typing SVG" />
 
-### Want to talk?  
-<a href="mailto:gabriel.lopes@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/gabriel-lopes-de-albuquerque-658a8317b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+# I am Gabriel Lopes de Albuquerque
 
-## 📊 My GitHub Stats
+Software Engineering Student • Data & AI Enthusiast • Analytics Engineer • Researcher
 
-<div>
-  <a href="https://github.com/gabriellopes-eng">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellopes-eng&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellopes-eng&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=FF79C6)](mailto:gabriel.lopes@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=8BE9FD)](https://www.linkedin.com/in/gabriel-lopes-de-albuquerque-658a8317b/)
+[![GitHub](https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=BD93F9)](https://github.com/gabriellopes-eng)
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="El-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
-  <img align="center" alt="El-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="El-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="El-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-  <img align="center" alt="El-LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
-  <img align="center" alt="El-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="El-Plotly" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg">
-  <img align="center" alt="El-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="El-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="El-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="El-Streamlit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg">
-  <img align="center" alt="El-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="El-Expo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg">
-  <img align="center" alt="El-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-</div>
-
-
-#
-
-## 🛠️ Techs & Tools
-
-### ⚒️ Languages:
-<a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-<a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"></a>
-<a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-<a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Java-F80000?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
+<br clear="right"/>
 
 ---
 
-### 📚 Frameworks, Platforms and Libraries:
-<a href="#"><img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"></a>
-<a href="#"><img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Math-6C3483?style=for-the-badge&logo=python&logoColor=white" alt="Math Library"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Expo-000000?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"></a>
-<a href="#"><img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React Native"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"></a>
+## `//` About Me
 
+```python
+class Gabriel:
+    def __init__(self):
+        self.role          = "Software Engineering Student @ UPE"
+        self.focus         = ["Artificial Intelligence", "Data Engineering", "Analytics", "Research"]
+        self.currently     = "Building data-driven systems & exploring intelligent architectures"
+        self.publications  = "Author & co-author of scientific papers in Computing"
 
----
+    def __repr__(self):
+        return "Always learning. Always building."
+```
 
-### 💾 Databases:
-<a href="#"><img src="https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-<a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+- 🎓 Software Engineering — Universidade de Pernambuco (UPE)
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Analytics & Data-Driven Solutions
+- 🧠 Research — Intelligent Systems & Graph Analysis
+- 📚 Author & co-author of scientific publications in Computing
 
----
+## `//` What I Do
 
-### 🕙 Version Control:
-<a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-<a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="#"><img src="https://img.shields.io/badge/-GitHub%20Desktop-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop"></a>
+I work at the intersection of software engineering and data science: designing and building systems that turn raw data into analytical solutions and intelligent models. Day to day, that means building data pipelines, training and evaluating machine learning models, designing scalable software architectures, and conducting applied research in intelligent systems and graph analysis. I also produce dashboards and analytical reports that translate complex data into decisions — always aiming to combine academic rigor with practical delivery.
 
 ---
 
-### 🧑🏻‍💻 IDEs/Editors:
-<a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Cursor-3A3A3A?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
-<a href="#"><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
-<a href="#"><img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"></a>
+## `//` GitHub Stats
+
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriellopes-eng&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula" align="left" />
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriellopes-eng&layout=compact&langs_count=8&hide_border=true&theme=dracula" align="left" />
+
+<br clear="left"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellopes-eng&theme=dracula&hide_border=true" />
 
 ---
 
-### ⚙️ Operating Systems:
-<a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
+## `//` Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=BD93F9)
+![JavaScript](https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=F1FA8C)
+![Java](https://img.shields.io/badge/Java-282A36?style=for-the-badge&logo=openjdk&logoColor=FF5555)
+![HTML5](https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=FF79C6)
+![CSS3](https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=8BE9FD)
+
+**Data · AI · Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-282A36?style=for-the-badge&logo=pandas&logoColor=BD93F9)
+![NumPy](https://img.shields.io/badge/NumPy-282A36?style=for-the-badge&logo=numpy&logoColor=8BE9FD)
+![Jupyter](https://img.shields.io/badge/Jupyter-282A36?style=for-the-badge&logo=jupyter&logoColor=FFB86C)
+![Plotly](https://img.shields.io/badge/Plotly-282A36?style=for-the-badge&logo=plotly&logoColor=50FA7B)
+![Streamlit](https://img.shields.io/badge/Streamlit-282A36?style=for-the-badge&logo=streamlit&logoColor=FF5555)
+![Tableau](https://img.shields.io/badge/Tableau-282A36?style=for-the-badge&logo=tableau&logoColor=FF79C6)
+![Power BI](https://img.shields.io/badge/Power%20BI-282A36?style=for-the-badge&logo=powerbi&logoColor=F1FA8C)
+![Excel](https://img.shields.io/badge/Excel-282A36?style=for-the-badge&logo=microsoftexcel&logoColor=50FA7B)
+![Anaconda](https://img.shields.io/badge/Anaconda-282A36?style=for-the-badge&logo=anaconda&logoColor=BD93F9)
+
+**AI & Machine Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-282A36?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-282A36?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-282A36?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Keras](https://img.shields.io/badge/Keras-282A36?style=for-the-badge&logo=keras&logoColor=D00000)
+
+**Frameworks & Platforms**
+
+![Django](https://img.shields.io/badge/Django-282A36?style=for-the-badge&logo=django&logoColor=50FA7B)
+![React Native](https://img.shields.io/badge/React%20Native-282A36?style=for-the-badge&logo=react&logoColor=8BE9FD)
+![Vue.js](https://img.shields.io/badge/Vue.js-282A36?style=for-the-badge&logo=vuedotjs&logoColor=50FA7B)
+![Expo](https://img.shields.io/badge/Expo-282A36?style=for-the-badge&logo=expo&logoColor=F8F8F2)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282A36?style=for-the-badge&logo=postgresql&logoColor=BD93F9)
+![MySQL](https://img.shields.io/badge/MySQL-282A36?style=for-the-badge&logo=mysql&logoColor=8BE9FD)
+![MongoDB](https://img.shields.io/badge/MongoDB-282A36?style=for-the-badge&logo=mongodb&logoColor=50FA7B)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-282A36?style=for-the-badge&logo=mongodb&logoColor=50FA7B)
+
+**Version Control**
+
+![Git](https://img.shields.io/badge/Git-282A36?style=for-the-badge&logo=git&logoColor=FF5555)
+![GitHub](https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=F8F8F2)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-282A36?style=for-the-badge&logo=github&logoColor=F8F8F2)
 
 ---
 
-### 👜 Other Tools: 
-<a href="#"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"></a>
-
-
-
-
-
-
-
+Gabriel Lopes de Albuquerque
