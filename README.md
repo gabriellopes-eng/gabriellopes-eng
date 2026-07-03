@@ -32,6 +32,14 @@ class Gabriel:
 I work at the intersection of software engineering and data science: designing and building systems that turn raw data into analytical solutions and intelligent models. Day to day, that means building data pipelines, training and evaluating machine learning models, designing scalable software architectures, and conducting applied research in intelligent systems and graph analysis. I also produce dashboards and analytical reports that translate complex data into decisions — always aiming to combine academic rigor with practical delivery.
 
 
+## `//` Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriellopes-eng/gabriellopes-eng/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriellopes-eng/gabriellopes-eng/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/gabriellopes-eng/gabriellopes-eng/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## `//` GitHub Stats
 <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriellopes-eng&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula" align="left" />
 <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriellopes-eng&layout=compact&langs_count=8&hide_border=true&theme=dracula" align="left" />
